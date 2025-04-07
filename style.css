@@ -11,7 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/assets/imagens/cenario-de-produtos-naturais-fazenda-e-luz-solar_53876-143219.jpg');
+    background-image: url(./img/imgPT.jpeg);
     background-size: cover;
     background-position: center;
   }
